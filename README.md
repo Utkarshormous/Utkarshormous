@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi 👋 I'm Utkarsh Shrivastava<br>🔭 I’m currently working on FrontEnd Web Development With Proficiency in react and typescript<br>💫 Currently Working As A Software Engineer Intern At Capillary Tech.
 
 
